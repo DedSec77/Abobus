@@ -1,0 +1,5 @@
+ENG:
+
+Are you sure you want to run this virus?
+This file can damage the system, I do not recommend running it on a real machine,
+if you are ready to run the virus, write Y (yes) to run, N (no) to reject

@@ -1,0 +1,14 @@
+C:\Users\DedSec\source\repos\Abobus\Abobus\bin\Debug\Abobus.exe.config
+C:\Users\DedSec\source\repos\Abobus\Abobus\bin\Debug\Abobus.exe
+C:\Users\DedSec\source\repos\Abobus\Abobus\bin\Debug\Abobus.pdb
+C:\Users\DedSec\source\repos\Abobus\Abobus\obj\Debug\Abobus.csprojAssemblyReference.cache
+C:\Users\DedSec\source\repos\Abobus\Abobus\obj\Debug\Abobus.csproj.CoreCompileInputs.cache
+C:\Users\DedSec\source\repos\Abobus\Abobus\obj\Debug\Abobus.exe
+C:\Users\DedSec\source\repos\Abobus\Abobus\obj\Debug\Abobus.pdb
+C:\Users\DedSec\source\repos\Abobus\Abobus\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\DedSec\source\repos\Abobus\Abobus\bin\Debug\System.Security.AccessControl.dll
+C:\Users\DedSec\source\repos\Abobus\Abobus\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\DedSec\source\repos\Abobus\Abobus\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\DedSec\source\repos\Abobus\Abobus\bin\Debug\System.Security.AccessControl.xml
+C:\Users\DedSec\source\repos\Abobus\Abobus\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\DedSec\source\repos\Abobus\Abobus\obj\Debug\Abobus.csproj.CopyComplete
